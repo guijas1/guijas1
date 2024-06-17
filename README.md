@@ -40,14 +40,14 @@ I love hiking and exploring new trails during the weekends. 🚶‍♂️🌲
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=guijas1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guijas1&layout=compact&theme=radical)
 
 ---
 
 ### 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seu-usuario&theme=react-dark)](https://github.com/seu-usuario)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seu-usuario&theme=react-dark)](https://github.com/guijas1)
 
 ---
 
