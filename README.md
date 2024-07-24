@@ -1,10 +1,6 @@
 ### Hi there 👋, I'm Guilherme !
 I'm a passionate back-end developer with experience in various programming languages and technologies.
 
-#### 🔭 I’m currently working on
-- [Project Name](link-do-projeto) - Uma breve descrição do projeto.
-- [Another Project](link-do-projeto) - Uma breve descrição do projeto.
-
 #### 🌱 I’m currently learning
 - Advanced Java concepts
 - Machine Learning with Python
