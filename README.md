@@ -4,7 +4,7 @@ Passionate back-end developer with experience in Java, Python, MySQL, and JavaSc
 
 ## 🌱 Currently Learning
 - Advanced Java
-- Machine Learning with Python
+- Design patterns
 - Docker & Kubernetes
 
 ## 🚀 Looking to Collaborate On
