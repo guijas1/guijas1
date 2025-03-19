@@ -12,7 +12,7 @@ Passionate back-end developer with experience in Java, Python, MySQL, and JavaSc
 - AI & Machine Learning applications
 
 ## 💬 Ask Me About
-- Java, Python, MySQL, JavaScript
+- Java, Python, MySQL, SPRINGBOOT and Angualr
 - API development & automation
 
 ## 📫 Connect With Me
