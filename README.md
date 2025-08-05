@@ -20,7 +20,7 @@ Atualmente curso **Engenharia da Computação** e busco constantemente evoluir c
 ## 📚 Atualmente estudando
 
 - Java avançado e padrões de projeto (Design Patterns)
-- Docker & Kubernetes
+- Docker
 - Arquitetura de software e testes automatizados (TDD)
 
 ---
