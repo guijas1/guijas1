@@ -1,23 +1,57 @@
-# 👋 Hi, I'm Guilherme!
+# 👋 Hey, I'm Guilherme!
 
-Passionate back-end developer with experience in Java, Python, MySQL, and JavaScript. Always learning and building cool stuff.
+Sou desenvolvedor back-end apaixonado por transformar ideias em soluções reais. Tenho experiência com **Java (Spring Boot)**, **Python**, **MySQL** e **JavaScript**, com foco em APIs REST, automações e integração de serviços.
 
-## 🌱 Currently Learning
-- Advanced Java
-- Design patterns
-- Docker & Kubernetes
+Atualmente curso **Engenharia da Computação** e busco constantemente evoluir como profissional — seja colaborando em projetos open-source ou me desafiando com novas stacks.
 
-## 🚀 Looking to Collaborate On
-- Open-source projects
-- AI & Machine Learning applications
+---
 
-## 💬 Ask Me About
-- Java, Python, MySQL, SPRINGBOOT and Angualr
-- API development & automation
+## 🚀 Sobre mim
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-tavares-guijas/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guijas1)
+- 🎓 Estudante de Engenharia da Computação (previsão de conclusão: 2026)
+- 👨‍💻 Já atuei com automações em Python, upload seguro de arquivos para AWS S3 e consumo de APIs REST
+- 🔧 Familiarizado com Git, Docker, metodologias ágeis e CI/CD com GitHub Actions
+- 💬 Gosto de aprender, compartilhar conhecimento e escrever código limpo e testável
 
-## ⚡ Fun Fact
-I love hiking and exploring new trails on weekends! 🚶‍♂️🌲
+---
+
+## 📚 Atualmente estudando
+
+- Java avançado e padrões de projeto (Design Patterns)
+- Docker
+- Arquitetura de software e testes automatizados (TDD)
+
+---
+
+## 🤝 Buscando colaborar com
+
+- Projetos open-source
+- Aplicações com foco em backend e automação
+- Iniciativas educacionais ou técnicas para desenvolvedores iniciantes
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+| Linguagens     | Frameworks        | Ferramentas & Outros        |
+|----------------|-------------------|------------------------------|
+| Java           | Spring Boot       | Git, GitHub                 |
+| Python         | Flask (básico)    | Docker, AWS S3              |
+| JavaScript     | Angular (básico)  | MySQL, VSCode, IntelliJ     |
+
+---
+
+## 📫 Onde me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/guilherme-tavares-guijas)  
+- [GitHub](https://github.com/guijas1)  
+
+---
+
+## ⚡ Curiosidade
+
+Quando não estou codando, estou provavelmente explorando trilhas, lendo sobre tecnologia ou automatizando algo por diversão! 🌲🚶‍♂️⚙️
+
+---
+
+🔍 *Sempre aberto a trocar ideias e colaborar!*
