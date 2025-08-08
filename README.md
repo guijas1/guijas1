@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Guilherme!
 
-Sou desenvolvedor back-end apaixonado por transformar ideias em soluções reais. Tenho experiência com **Java (Spring Boot)**, **Python**, **MySQL** e **JavaScript**, com foco em APIs REST, automações e integração de serviços.
+Sou desenvolvedor back-end apaixonado por transformar ideias em soluções reais. Tenho experiência com **Java (Spring Boot)**, **Python** e **MySQL**, com foco em APIs REST, automações e integração de serviços.
 
 Atualmente curso **Engenharia da Computação** e busco constantemente evoluir como profissional — seja colaborando em projetos open-source ou me desafiando com novas stacks.
 
