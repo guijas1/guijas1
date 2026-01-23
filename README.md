@@ -2,15 +2,15 @@
 
 # 👋 Hey, I'm Guilherme!
 
-Sou desenvolvedor back-end apaixonado por transformar ideias em soluções reais. Tenho experiência com **Java (Spring Boot)**, **Python** e **MySQL**, com foco em APIs REST, automações e integração de serviços.
+Sou desenvolvedor back-end fanático por transformar ideias em soluções reais. Tenho experiência com **Java (Spring Boot)**, **Python** e **MySQL**, com foco em APIs REST, automações e integração de serviços.
 
-Atualmente curso **Engenharia da Computação** e busco constantemente evoluir como profissional — seja colaborando em projetos open-source ou me desafiando com novas stacks.
+Atualmente curso **Engenharia da Computação** e busco constantemente evoluir como profissional, explorando todo ecossistema Java.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de Engenharia da Computação na Universidade Veiga de Almeida (UVA) — previsão de conclusão: 2026
+- 🎓 Estudante de Engenharia da Computação na Universidade Veiga de Almeida (UVA) — previsão de conclusão: 2027
 - 👨‍💻 Já atuei com automações em Python, upload seguro de arquivos para AWS S3 e consumo de APIs REST
 - 🔧 Familiarizado com Git, Docker, metodologias ágeis e CI/CD com GitHub Actions
 - 💬 Gosto de aprender, compartilhar conhecimento e escrever código limpo e testável
@@ -22,6 +22,7 @@ Atualmente curso **Engenharia da Computação** e busco constantemente evoluir c
 - Java avançado e padrões de projeto (Design Patterns)
 - Docker
 - Arquitetura de software e testes automatizados (TDD)
+- Mesangerias (KAFKA e Rabbit MQ)
 
 ---
 
@@ -80,7 +81,7 @@ Atualmente curso **Engenharia da Computação** e busco constantemente evoluir c
 
 ## ⚡ Curiosidade
 
-Quando não estou codando, estou provavelmente explorando trilhas, lendo sobre tecnologia ou automatizando algo por diversão! 🌲🚶‍♂️⚙️
+Quando não estou codando, estou provavelmente na praia, lendo sobre tecnologia ou automatizando algo por diversão! 🌲🚶‍♂️⚙️
 
 ---
 
