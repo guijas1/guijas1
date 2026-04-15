@@ -81,7 +81,7 @@ Atualmente curso **Engenharia da Computação** e busco constantemente evoluir c
 
 ## ⚡ Curiosidade
 
-Quando não estou codando, estou provavelmente na praia, lendo sobre tecnologia ou automatizando algo por diversão! 🌲🚶‍♂️⚙️
+Quando não estou codando, estou provavelmente na praia.
 
 ---
 
